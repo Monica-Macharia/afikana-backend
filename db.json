@@ -1,0 +1,46 @@
+{
+    "booked": [
+      {
+        "id": 1,
+        "date": "01/15/2022",
+        "seatNumber": 4,
+        "foodCategory": "Vegan"
+      },
+      {
+        "id": 2,
+        "date": "02/12/2022",
+        "seatNumber": 6,
+        "foodCategory": "Pork"
+      },
+      {
+        "id": 3,
+        "date": "01/17/2022",
+        "seatNumber": 9,
+        "foodCategory": "Seafood"
+      },
+      {
+        "id": 4,
+        "date": "01/25/2022",
+        "seatNumber": 4,
+        "foodCategory": "Vegan"
+      },
+      {
+        "date": "2022-08-10",
+        "seatNumber": "5",
+        "foodCategory": "Chicken",
+        "id": 5
+      },
+      {
+        "date": "2022-08-11",
+        "seatNumber": "5",
+        "foodCategory": "Chicken",
+        "id": 6
+      },
+      {
+        "date": "2022-08-03",
+        "seatNumber": "099",
+        "foodCategory": "Chicken",
+        "id": 7
+      }
+    ]
+  }
